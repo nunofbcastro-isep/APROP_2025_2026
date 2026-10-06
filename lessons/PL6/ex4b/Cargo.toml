@@ -1,0 +1,10 @@
+[package]
+name = "ex4b_bench"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rayon = "1.10.0"
+threadpool = "1.8.1"
+num_cpus = "1.16.0"
+
